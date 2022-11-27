@@ -9,6 +9,7 @@
     - https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb
 - Material UI 
 - Async/await
+- [JavaScript Mastery's Tutorial](https://youtu.be/KBpoBc98BwM)
 
 <br>
 
