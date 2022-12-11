@@ -9,3 +9,5 @@ export const SimilarExercises = () => {
         </div>
     )
 }
+
+export default SimilarExercises

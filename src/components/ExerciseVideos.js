@@ -1,10 +1,12 @@
 import React from 'react'
 
 
-export const ExerciseVideos = () => {
+const ExerciseVideos = () => {
     return (
         <div>
             ExerciseVideos
         </div>
     )
 }
+
+export default ExerciseVideos
